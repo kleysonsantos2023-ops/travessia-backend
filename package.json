@@ -1,0 +1,12 @@
+ "name": "travessia-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mercadopago": "^1.5.15",
+    "cors": "^2.8.5"
+  }
+}
